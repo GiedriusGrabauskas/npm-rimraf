@@ -1,0 +1,10 @@
+{
+  "name": "rimraf",
+  "main": "rimraf.d.ts",
+  "ambientDependencies": {
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#1c56e368e17bb28ca57577250624ca5bd561aa81"
+  },
+  "dependencies": {
+    "glob": "github:typings/typed-glob#b6dcc545de0e25f2e4d6c9ee2c97f9fde0223d8f"
+  }
+}

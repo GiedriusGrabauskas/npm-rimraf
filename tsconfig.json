@@ -1,0 +1,6 @@
+{
+  "files": [
+    "rimraf.d.ts",
+    "typings/main.d.ts"
+  ]
+}
