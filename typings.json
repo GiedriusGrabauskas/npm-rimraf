@@ -5,6 +5,6 @@
     "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#1c56e368e17bb28ca57577250624ca5bd561aa81"
   },
   "dependencies": {
-    "glob": "github:typings/typed-glob#b6dcc545de0e25f2e4d6c9ee2c97f9fde0223d8f"
+    "glob": "github:typed-typings/npm-glob#59ca0f5d4696a8d4da27858035316c1014133fcb"
   }
 }
